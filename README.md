@@ -9,3 +9,7 @@ again and again so I figured that it was about time to start writing them down.
 Case insensitive autocomplete
 -----------------------------
 `echo 'set completion-ignore-case On' >> ~/.inputrc`
+
+Recursive grep
+--------------
+`grep -r --include="*.xml" needle`
